@@ -3,7 +3,7 @@ import calculos
 import texto
 import chatbot
 
-API_KEY = "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"
+API_KEY = "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"
 
 def mostrar_menu():
     print("\nSoy Ari, tu asistente de AI. ¿En qué puedo ayudarte?")
